@@ -5,6 +5,11 @@ body {
     background-color: transparent;
 }
 
+h1, .h1 {
+    font-size: 3.0em;
+    line-height: 1.15em;
+}
+
 .wrapper {
   background-color: #f2f3f4;
 }
